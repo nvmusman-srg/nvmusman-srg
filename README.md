@@ -7,7 +7,7 @@
 ![Let's connect](./assets/connect.svg?v=1)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usman-butt-49978b305">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/musman-butt">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.instagram.com/nvmusman._">Instagram</a>
 </p>
